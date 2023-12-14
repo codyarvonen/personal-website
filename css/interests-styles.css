@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(198, 235, 255));
+    margin-left: 20%;
+    margin-right: 20%;
+}
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: grey;
+}
+.return-link {
+    top: 10px;
+    left: 20px;
+}
+.header-common {
+    position: absolute;
+}
+.header-style {
+    font-style: bold;
+}
+.header-pos {
+    top: 15px;
+}
+.tableau {
+    margin: 5px;
+}
+.youtube {
+    padding: 20px;
+    text-align: center;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+}
+.sports {
+    padding: 50px;
+}
